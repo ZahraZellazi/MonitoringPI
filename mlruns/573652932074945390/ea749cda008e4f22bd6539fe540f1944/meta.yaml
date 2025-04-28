@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/573652932074945390/ea749cda008e4f22bd6539fe540f1944/artifacts
+end_time: 1745849432226
+entry_point_name: ''
+experiment_id: '573652932074945390'
+lifecycle_stage: active
+run_id: ea749cda008e4f22bd6539fe540f1944
+run_name: Player_Performance_Analysis
+run_uuid: ea749cda008e4f22bd6539fe540f1944
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849384674
+status: 3
+tags: []
+user_id: zahra

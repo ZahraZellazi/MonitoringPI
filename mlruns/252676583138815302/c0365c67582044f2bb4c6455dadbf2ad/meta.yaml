@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/252676583138815302/c0365c67582044f2bb4c6455dadbf2ad/artifacts
+end_time: 1745849081765
+entry_point_name: ''
+experiment_id: '252676583138815302'
+lifecycle_stage: active
+run_id: c0365c67582044f2bb4c6455dadbf2ad
+run_name: rambunctious-yak-784
+run_uuid: c0365c67582044f2bb4c6455dadbf2ad
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745848938135
+status: 3
+tags: []
+user_id: zahra

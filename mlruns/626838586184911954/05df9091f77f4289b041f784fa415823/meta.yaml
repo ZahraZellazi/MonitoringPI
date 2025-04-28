@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/626838586184911954/05df9091f77f4289b041f784fa415823/artifacts
+end_time: 1745841542634
+entry_point_name: ''
+experiment_id: '626838586184911954'
+lifecycle_stage: active
+run_id: 05df9091f77f4289b041f784fa415823
+run_name: orderly-swan-477
+run_uuid: 05df9091f77f4289b041f784fa415823
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745841449341
+status: 3
+tags: []
+user_id: zahra

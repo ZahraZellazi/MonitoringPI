@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/313923663299252112/165a43ed48a743beacaf0009307fbea5/artifacts
+end_time: 1745843080647
+entry_point_name: ''
+experiment_id: '313923663299252112'
+lifecycle_stage: active
+run_id: 165a43ed48a743beacaf0009307fbea5
+run_name: merciful-vole-82
+run_uuid: 165a43ed48a743beacaf0009307fbea5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745843078528
+status: 4
+tags: []
+user_id: zahra

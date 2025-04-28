@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/650601687679972223/878f5f42d80f44a6921b7ee1f4785dfa/artifacts
+end_time: 1745841378459
+entry_point_name: ''
+experiment_id: '650601687679972223'
+lifecycle_stage: active
+run_id: 878f5f42d80f44a6921b7ee1f4785dfa
+run_name: unleashed-horse-193
+run_uuid: 878f5f42d80f44a6921b7ee1f4785dfa
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745841351422
+status: 3
+tags: []
+user_id: zahra

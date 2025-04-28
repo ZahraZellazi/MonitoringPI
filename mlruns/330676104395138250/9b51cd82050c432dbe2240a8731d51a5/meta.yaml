@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/330676104395138250/9b51cd82050c432dbe2240a8731d51a5/artifacts
+end_time: 1745841190816
+entry_point_name: ''
+experiment_id: '330676104395138250'
+lifecycle_stage: active
+run_id: 9b51cd82050c432dbe2240a8731d51a5
+run_name: bemused-snipe-853
+run_uuid: 9b51cd82050c432dbe2240a8731d51a5
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745841162881
+status: 3
+tags: []
+user_id: zahra

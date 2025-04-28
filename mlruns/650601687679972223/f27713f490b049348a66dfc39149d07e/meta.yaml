@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/650601687679972223/f27713f490b049348a66dfc39149d07e/artifacts
+end_time: 1745841392411
+entry_point_name: ''
+experiment_id: '650601687679972223'
+lifecycle_stage: active
+run_id: f27713f490b049348a66dfc39149d07e
+run_name: Model_Training
+run_uuid: f27713f490b049348a66dfc39149d07e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745841378851
+status: 3
+tags: []
+user_id: zahra

@@ -1,0 +1,15 @@
+artifact_uri: file:///Users/zahra/SoFifaMonitoring/mlruns/573652932074945390/dea1c488155c457284ddd6e8c0cc8006/artifacts
+end_time: 1745849343814
+entry_point_name: ''
+experiment_id: '573652932074945390'
+lifecycle_stage: active
+run_id: dea1c488155c457284ddd6e8c0cc8006
+run_name: bemused-turtle-775
+run_uuid: dea1c488155c457284ddd6e8c0cc8006
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1745849235420
+status: 3
+tags: []
+user_id: zahra
